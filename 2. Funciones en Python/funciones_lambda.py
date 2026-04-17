@@ -42,6 +42,7 @@ print(prueba(6,14))
 
 #-----------------------------------------
 # Funciones como argumentos
+# CALLBACK
 
 estudiantes = [
     {"nombre":"Juan","edad":20},
